@@ -18,8 +18,6 @@ A simple **React.js** application that allows users to change the background col
 - **CSS** – For styling  
 - **JavaScript** – Random color generation  
 
-## 📸 Screenshot
-*(Add a screenshot of your app here)*  
 
 ## 🛠️ How to Run Locally
 1️⃣ Clone the repository:  
